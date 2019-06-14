@@ -4,6 +4,8 @@ An ultra-fast Laracasts lessons search workflow for [Alfred 4](https://www.alfre
 
 ![Screenshot](lc-screenshot.png)
 
+Based on, and inspired by [Laravel Docs Search](https://github.com/tillkruss/alfred-laravel-docs) by [Till Krüss](https://github.com/tillkruss)
+
 ## Installation
 
 1. [Download the latest version](https://github.com/egyptik/alfred-laracasts-lessons/releases/download/v0.0.1/Laravel.Docs.alfredworkflow)

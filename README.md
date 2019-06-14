@@ -2,7 +2,7 @@
 
 An ultra-fast Laracasts lessons search workflow for [Alfred 4](https://www.alfredapp.com).
 
-![Screenshot](screenshot.png)
+![Screenshot](lc-screenshot.png)
 
 ## Installation
 

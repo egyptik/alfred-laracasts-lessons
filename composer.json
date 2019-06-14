@@ -1,0 +1,17 @@
+{
+    "name": "egyptik/alfred-laracasts-lessons",
+    "description": "An ultra-fast Laracasts lessons search workflow for Alfred 4.",
+    "version": "0.1.0",
+    "keywords": ["alfred", "alfred-workflow", "laracasts", "laravel", "algolia"],
+    "homepage": "https://github.com/egyptik/alfred-laracasts-lessons",
+    "support": {
+        "source": "https://github.com/egyptik/alfred-laracasts-lessons",
+        "issues": "https://github.com/egyptik/alfred-laracasts-lessons/issues"
+    },
+    "license": "MIT",
+    "require": {
+        "joetannenbaum/alfred-workflow": "^0.1.0",
+        "algolia/algoliasearch-client-php": "^1.27",
+        "erusev/parsedown": "^1.7"
+    }
+}
